@@ -19,6 +19,8 @@
 
 > Swagger: Swagger é uma linguagem de descrição de interface para descrever APIs RESTful expressas usando JSON. O Swagger é usado junto com um conjunto de ferramentas de software de código aberto para projetar, construir, documentar e usar serviços da Web RESTful.
 
+> Swagger: Swagger é uma linguagem de descrição de interface para descrever APIs RESTful expressas usando JSON. O Swagger é usado junto com um conjunto de ferramentas de software de código aberto para projetar, construir, documentar e usar serviços da Web RESTful.
+
 > Java: Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 por uma equipe de programadores chefiada por James Gosling, na empresa Sun Microsystems. Em 2008 o Java foi adquirido pela empresa Oracle Corporation.
 
 > Generics: Os genéricos são um recurso de programação genérica que foi incluída na linguagem de programação Java em 2004 na versão J2SE 5.0. Eles foram projetados para estender o sistema de tipos do Java para permitir que "um tipo ou método opere em objetos de vários tipos, fornecendo segurança do tipo em tempo de compilação".

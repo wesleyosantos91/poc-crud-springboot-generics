@@ -51,7 +51,7 @@ public class SwaggerConfig {
                 .ignoredParameterTypes(ApiIgnore.class)
                 .select()
                 .apis(RequestHandlerSelectors.any())
-                .paths(PathSelectors.any())
+                .paths(PathSelectors.ant("/persons/**"))
                 .build()
                 .pathMapping("/")
                 .produces(DEFAULT_PRODUCES_AND_CONSUMES)
