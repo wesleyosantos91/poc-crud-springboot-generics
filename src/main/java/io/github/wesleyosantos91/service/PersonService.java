@@ -7,11 +7,18 @@ import io.github.wesleyosantos91.mapper.PersonMapper;
 import io.github.wesleyosantos91.repository.PersonRepository;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
+
 @Service
 public class PersonService extends AbstractService<Person, PersonResponse, PersonRequest, Long, PersonMapper, PersonRepository> {
 
 
     public PersonService(PersonRepository repository, PersonMapper mapper) {
         super(repository, mapper);
+    }
+
+    @Override
+    public List<PersonResponse> findAll() {
+        return super.findAll();
     }
 }
