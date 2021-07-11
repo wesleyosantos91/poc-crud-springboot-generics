@@ -1,0 +1,1 @@
+# poc-crud-springboot-generics
